@@ -8,7 +8,7 @@ Using Arduino boards, C language, and Adafruit IO Broker <br><br>
 <br><br>
 ## Gesture Detection State Machine
 <img width="572" alt="Screen Shot 2021-11-26 at 10 46 51 AM" src="https://user-images.githubusercontent.com/94994105/143621064-7c5030f6-8a7c-4f42-91a3-d87bfcb933af.png">
-### MQTT Gesture Detection
+<br> ## MQTT Gesture Detection
 <img width="576" alt="Screen Shot 2021-11-26 at 10 47 10 AM" src="https://user-images.githubusercontent.com/94994105/143621069-dd95febb-fbac-4f89-a55e-840a5710063f.png">
 ## Adafruit IO
 <img width="569" alt="Screen Shot 2021-11-26 at 10 47 46 AM" src="https://user-images.githubusercontent.com/94994105/143621071-41b70f4d-5edf-4829-9eb4-2ab79a18d9a6.png">
