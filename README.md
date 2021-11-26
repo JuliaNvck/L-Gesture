@@ -6,7 +6,7 @@ Using Arduino boards, C language, and Adafruit IO Broker <br><br>
 - Once detected, publishes data to Adafruit and light on web turns green <br>
 - Polls client to check if IO button is set to read X-axis or Y-axis data; publishes data to graph on Adafruit
 <br><br>
-<header> <h1> Gesture Detection State Machine </h1> 
+<header> <h2> Gesture Detection State Machine </h2> 
 <img width="572" alt="Screen Shot 2021-11-26 at 10 46 51 AM" src="https://user-images.githubusercontent.com/94994105/143621064-7c5030f6-8a7c-4f42-91a3-d87bfcb933af.png">
   <h2> MQTT Gesture Detection </h2>
 <img width="576" alt="Screen Shot 2021-11-26 at 10 47 10 AM" src="https://user-images.githubusercontent.com/94994105/143621069-dd95febb-fbac-4f89-a55e-840a5710063f.png">
