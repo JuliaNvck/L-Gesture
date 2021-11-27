@@ -1,6 +1,6 @@
 # L-Gesture
 IoT device: L-Gesture Detection <br>
-Using Arduino boards, C language, and Adafruit IO Broker <br><br>
+Using Arduino boards, C language, and Adafruit IO MQTT Broker <br><br>
 - Connects to WiFi, reads velocity and acceleration data via accelerometer and uses smoothing filter <br>
 - Uses gesture detection state machine to recognize only correct L-shape gesture <br>
 - Once detected, publishes data to Adafruit and light on web turns green <br>
