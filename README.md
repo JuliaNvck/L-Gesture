@@ -1,10 +1,11 @@
 # L-Gesture
 IoT device: L-Gesture Detection <br>
 Using Arduino boards, C language, and Adafruit IO MQTT Broker <br><br>
-- Connects to WiFi, reads velocity and acceleration data via accelerometer and uses smoothing filter <br>
+- Connects to WiFi, uses smoothing filter and reads accelerometer data <br>
+- Displays acceleration, velocity, and displacement data, and the number of detected gestures on LCD screen <br>
 - Uses gesture detection state machine to recognize only correct L-shape gesture <br>
-- Once detected, publishes data to Adafruit and light on web turns green <br>
-- Polls client to check if IO button is set to read X-axis or Y-axis data; publishes data to graph on Adafruit
+- Once detected, publishes data to Adafruit and light (IO indicator) on web turns green <br>
+- Polls client to check if IO button is set to read X-accelerometer or Y-accelerometer data; publishes data to graph on Adafruit
 <br><br>
 <header> <h2> Gesture Detection State Machine </h2> 
 <img width="572" alt="Screen Shot 2021-11-26 at 10 46 51 AM" src="https://user-images.githubusercontent.com/94994105/143621064-7c5030f6-8a7c-4f42-91a3-d87bfcb933af.png">
